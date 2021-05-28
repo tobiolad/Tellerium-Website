@@ -1,0 +1,388 @@
+
+body{
+ margin: 0;
+ background: url("Vector 3.jpg") no-repeat;
+ BACKGROUND-SIZE: 100%;
+}
+
+
+
+#ideal {
+  margin-right: 180px;
+}
+
+#etre a{
+  text-decoration: none;
+   color: #ffffff;
+   font-family: Roboto;
+   font-weight: 400;
+   font-size: 14;
+   margin-top: 0;
+   padding-left: 22px;
+   padding-right: 20px;
+}
+
+#etre{
+  float: right;
+  margin-top: 15px;
+}
+
+#main-cot{
+  float: left;
+  margin-left: 120px;
+  margin-top: 5px;
+}
+
+
+
+#ivan{
+  color:#ffffff;
+  font-weight: 500;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 40px;
+  margin-top:300px;
+  margin-left: 0;
+  line-height: 66.15px;
+  margin-bottom: 0;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0,0.95);
+}
+#rely{
+  font-family: Roboto;
+  font-size: 14px;
+  margin-left: 5px;
+  color: rgba(255, 255, 255, 0.95);
+    margin-top: 0;
+    
+}
+#deli{
+   font-family: 'Red Hat Display', sans-serif;
+   font-weight: 500;
+   font-size: 40px;
+   line-height: 66.15px;
+   margin-left: 115px;
+   margin-bottom: 10px;
+}
+.iop{
+  font-family: Roboto;
+  font-size: 16px;
+  margin-top: 0;
+  margin-top: 0;
+  margin-left: 117px;
+  font-weight: 400;
+}
+
+
+#dodo{
+  float: left;
+}
+
+
+#mik img{
+ margin-top: 170px;
+  margin-left: 25px;
+}
+
+.mop img{
+  margin-top: 90px;
+}
+
+
+#lol{
+ word-wrap: break-word;
+ float: left;
+ margin-top: 175px;
+}
+
+#mol img{
+ margin-top: 0;
+ margin-left: 5px;
+}
+
+#col{
+  margin-top: 190px;
+}
+
+
+#qol img{
+  margin-top: 80px;
+  margin-left: 16px;
+}
+
+.emem{
+  font-family: 'Red Hat Display', sans-serif;
+   font-weight: 500;
+   font-size: 40px;
+   line-height: 60px;
+   margin-left: 115px;
+   margin-bottom: 0;
+   margin-top: 0;
+}
+
+
+#eti{
+  margin-top: 0;
+}
+#col{
+  word-wrap: break-word;
+ float: left;
+}
+.ravi{
+  font-family: 'Red Hat Display', sans-serif;
+   font-size: 16px;
+   font-weight: 500;
+   margin-left: 117px;
+   line-height: 20px;
+}
+
+#detty{
+  margin-left: 570px;
+  text-decoration: none;
+  color: rgb(0,128,0);
+}
+
+
+#ed{
+  margin-bottom: 40px;
+}
+
+
+#redmi a{
+  text-decoration: underline;
+  text-decoration-color: rgba(248, 195, 1, 1);
+}
+
+#elect{
+  word-wrap: break-word;
+ float: left;
+  margin-top: 250px;
+}
+
+#pol img{
+  margin-top: 100px;
+}
+
+#dele{
+  margin-top: 22px;
+}
+
+
+#eleo{
+  margin-left: 570px;
+  text-decoration: none;
+  color: rgb(0,128,0);
+}
+
+#etr{
+  margin-bottom: 40px;
+}
+
+#mel{
+  font-family: 'Red Hat Display', sans-serif;
+   font-weight: 500;
+   font-size: 40px;
+   line-height: 60px;
+   margin-left: 80px;
+   margin-bottom: 0;
+   margin-top: 0;
+}
+
+#get{
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.teg{
+  padding-right: 30px;
+}
+
+#let{
+   margin-left: 80px;
+  margin-top: 30px;
+}
+
+.tell{
+  padding-right: 30px;
+}
+
+#lpo{
+  margin-top: 85px;
+  background: url("Rectangle 17.png") no-repeat;
+ BACKGROUND-SIZE: 100%;
+ text-align:center;
+}
+
+
+
+#leg{
+  text-align: center;
+font-family: Noto Serif;
+font-size: 70px;
+font-style: normal;
+font-weight: 400;
+line-height: 95px;
+letter-spacing: 0em;
+
+text-decoration: underline;
+text-decoration-color: rgba(0, 0, 0, 1)  ;
+color: rgba(0, 135, 55, 1);
+padding-top: 50px;
+}
+
+#opl{
+  text-align: center;
+  padding-left: 22%;
+}
+
+.shape{
+  font-family: Red Hat Display;
+font-size: 50px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+margin-left: 150px;
+margin-top: 0;
+}
+
+
+#okay{
+  margin-top: 200px;
+   margin-bottom: 50px;
+}
+
+#love{
+ font-family: Segoe MDL2 Assets;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+text-decoration: none;
+color: rgb(0,128,0);
+border: 1px solid rgba(0, 135, 55, 1);
+padding-left: 50px;
+padding-right: 50px;
+margin-left: 310px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+word-wrap: break-word;
+}
+
+
+#dom{
+  float: left;
+}
+
+
+
+#rat{
+  margin-top: 5px;
+  float:left;
+}
+
+
+
+#ded{
+   list-style-type: none;
+    margin-top: 45px;
+}
+
+#ded.li{
+  margin-top: 200px;
+}
+
+.didi{
+  margin-left: 105px;
+   margin-right: 120px;
+   color: rgb(0,128,0);
+   font-family: Roboto;
+  font-size: 16px;
+}
+
+#rat img{
+   margin-left: 100px;
+}
+
+#pam a{
+  
+  
+  margin-bottom: 14px;
+  font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+color: rgba(0, 135, 55, 0.8);
+
+
+}
+
+
+#om a{
+  margin-bottom: 7px;
+  font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+text-decoration: none;
+color: rgba(0, 135, 55, 0.8);
+
+}
+
+
+
+
+#ped{
+ 
+  margin-left: 30px;
+}
+
+.log{
+  margin-left: 40px;
+  margin-top: 5px;
+}
+
+
+
+#el{
+  margin-left: 205px;
+}
+#om{
+  float: left;
+}
+#tom img{
+  margin-bottom: 150px;
+}
+
+
+
+
+
+#ped a{
+  margin-left: 303px;
+  color: rgba(0, 135, 55, 0.8);
+  font-family: Roboto;
+font-size: 16px;
+ margin-top: 110px;
+}
+
+
+
+#ped img{
+  margin-top: 13px;
+}
+#om ul{
+   list-style-type: none;
+   margin-top: 0;
+}
+
+#om li{
+   margin-bottom: 12px;
+}
+
+#kol{
+  margin-top: 0;
+  
+}
+
+#lm li{
+   margin-bottom: 22px;
+}
